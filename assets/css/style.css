@@ -1,16 +1,9 @@
-/*
-* Prefixed by https://autoprefixer.github.io
-* PostCSS: v7.0.29,
-* Autoprefixer: v9.7.6
-* Browsers: last 4 version
-*/
-
 /** 
-Template Name: AMBER - HTML Template
+Template Name: VIXON - HTML Template
 Template URL: http://coderitsoltion.com
-Author: Coder IT Solution
-Author URI: http://coderitsoltion.com
-Description:AMBER HTML Template
+Author: MAKER_SHIHAB
+Author URI: http://WWW.FIVERR.COM/MAKER_SHIHAB
+Description:VIXON HTML Template
 Keywords: html,css,js
 
 **/
@@ -60,6 +53,7 @@ img {
 
 html {
 	font-size: 62.5%;
+	overflow-x: hidden;
 }
 
 body {
